@@ -1,4 +1,4 @@
-# USB_MicroSD_CardReader
+# USB_MicroSD_CardReader ✅ Completed
 
 ## Description:
 This is an USB MicroSD Card Reader mad with the GL823K IC. 
@@ -22,3 +22,6 @@ I have to wait the second board to arrive, and to make the 3D case for it, but o
 ## LINKS:
 GL823K datasheet (Card reader IC): https://datasheet.lcsc.com/lcsc/1912111437_Genesys-Logic-GL823K-HCY04_C284879.pdf
 
+## License
+This project and its subprojects are licensed under
+the [MIT License](LICENSE).
